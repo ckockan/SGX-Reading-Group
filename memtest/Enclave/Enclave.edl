@@ -1,0 +1,11 @@
+enclave
+{
+	trusted
+	{
+		public void memtest();
+    };
+
+	untrusted
+	{
+	};
+};
